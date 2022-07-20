@@ -1,0 +1,20 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Rápido e Devagar",
+      "price": 100.0,
+      "quantity": 10,
+      "category": "Financeiro",
+      "img": "livro"
+    },
+    {
+      "id": 2,
+      "name": "Rápido e Devagar",
+      "price": 100.0,
+      "quantity": 10,
+      "category": "Financeiro",
+      "img": "livro"
+    }
+  ]
+}
